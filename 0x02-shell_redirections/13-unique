@@ -1,2 +1,2 @@
-#!/bin/bash
-uniq -u list | sort -fn
+!#/bin/bash
+sort -fn x.js | uniq -u
